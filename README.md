@@ -5,9 +5,9 @@
 
 ## Sở thích: 
 <ul>
-  <li>đá bóng</li>
-  <li>xem phim</li>
-  <li>chơi game</li>
+  <li>Đá bóng</li>
+  <li>Xem phim</li>
+  <li>Chơi game</li>
 </ul>
 
 ## Thông tin liên hệ:https://www.facebook.com/hunghieutran242007?rdid=uLhtNT8Ybir0mBmi&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1HmJHDs86G%2F#
